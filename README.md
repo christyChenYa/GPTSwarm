@@ -15,6 +15,8 @@
 * It lets you build LLM-based agents from graphs.
 * It enables the customized and automatic self-organization of agent swarms with self-improvement capabilities.
 
+![Visualization of the codebase](./diagram.svg)
+
 ## News
 
 ✨ March 3, 2024: GPTSwarm can be installed via pip now: ``pip install gptswarm``
